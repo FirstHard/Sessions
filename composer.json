@@ -1,0 +1,17 @@
+{
+    "name": "root/project",
+    "description": "mvcShop - Training Project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladimir Buinoff",
+            "email": "buinoff@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
